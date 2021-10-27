@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtruocchio&label=Profile%20views&color=0e75b6&style=flat" alt="mtruocchio" /> </p>
 
-- 🔭 I’m currently working on **Beaze**
+- 🔭 I’m currently working on **Vallourec**
 
-- 🌱 I’m currently learning **iOS, NodeJS, ReactJS and React Native**
+- 🌱 I’m currently learning **ReactJS and React Native, NodeJS, Java**
 
 - 💬 Ask me about **.NET**
 
